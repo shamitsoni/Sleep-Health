@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environments
+venv/
+.env
+
+# Data
+data/*.csv
+data/*.xlsx
+!data/README.md  # allow a small README describing the dataset
